@@ -1,2 +1,2 @@
-<h2>  OOPS-Objectoreintedprograming  <h2/>
-<h1> 1.sumof2numbers <h2/>
+<h2>  OOPS-Object oreinted programing  <h2/>
+<h1> 1.Palindrome <h2/>
