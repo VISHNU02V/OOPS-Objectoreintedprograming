@@ -41,7 +41,9 @@ class Inheritance {
         p.Address = "Ernakulam";
         p.Department = "Marketting";
         p.Specialization = "Accountancy with Tally";
-        System.out.println("///////// EMPLOYEE DETAILS /////////");
+        System.out.println();
+        System.out.println("///////// OFFICER DETAILS /////////");
+        System.out.println();
         p.printsalary();
         p.printOfficer();
         Manager m = new Manager();
@@ -52,7 +54,10 @@ class Inheritance {
         m.Address = "Calicut";
         m.Department = "finance";
         m.Specialization = "Accountancy with Tally";
-        System.out.println("///////// EMPLOYEE DETAILS /////////");
+        System.out.println();
+        System.out.println("///////// MANAGER DETAILS /////////");
+        System.out.println();
+        System.out.println();
         m.printsalary();
         m.printManager();
     }
